@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: ad63de43d5bea554a8d2a86739ec9dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6332868990443302820
+    second: T_OpenChestSpriteSheet_Treasure_0
+  - first:
+      213: -2475845257152750194
+    second: T_OpenChestSpriteSheet_Treasure_1
+  - first:
+      213: -2675731346161178754
+    second: T_OpenChestSpriteSheet_Treasure_2
+  - first:
+      213: -3679236059050006335
+    second: T_OpenChestSpriteSheet_Treasure_3
+  - first:
+      213: 8454179767619802740
+    second: T_OpenChestSpriteSheet_Treasure_4
+  - first:
+      213: 896109116551933793
+    second: T_OpenChestSpriteSheet_Treasure_5
+  - first:
+      213: 462053815865418165
+    second: T_OpenChestSpriteSheet_Treasure_6
+  - first:
+      213: -6001720316931209332
+    second: T_OpenChestSpriteSheet_Treasure_7
+  - first:
+      213: 589164538120021607
+    second: T_OpenChestSpriteSheet_Treasure_8
+  - first:
+      213: 3390465844523888946
+    second: T_OpenChestSpriteSheet_Treasure_9
+  - first:
+      213: 962079718026333346
+    second: T_OpenChestSpriteSheet_Treasure_10
+  - first:
+      213: 8329324179205960707
+    second: T_OpenChestSpriteSheet_Treasure_11
+  - first:
+      213: 5779400128697918367
+    second: T_OpenChestSpriteSheet_Treasure_12
+  - first:
+      213: -2658722973438527623
+    second: T_OpenChestSpriteSheet_Treasure_13
+  - first:
+      213: 4946025990528024897
+    second: T_OpenChestSpriteSheet_Treasure_14
+  - first:
+      213: -990692085568905296
+    second: T_OpenChestSpriteSheet_Treasure_15
+  - first:
+      213: -3048737709710645455
+    second: T_OpenChestSpriteSheet_Treasure_16
+  - first:
+      213: 3041439693522739345
+    second: T_OpenChestSpriteSheet_Treasure_17
+  - first:
+      213: -1198637758599890373
+    second: T_OpenChestSpriteSheet_Treasure_18
+  - first:
+      213: 944441626278128351
+    second: T_OpenChestSpriteSheet_Treasure_19
+  - first:
+      213: -2447415944970868436
+    second: T_OpenChestSpriteSheet_Treasure_20
+  - first:
+      213: 404230613574241842
+    second: T_OpenChestSpriteSheet_Treasure_21
+  - first:
+      213: 5854819210810365206
+    second: T_OpenChestSpriteSheet_Treasure_22
+  - first:
+      213: -2585034188499947526
+    second: T_OpenChestSpriteSheet_Treasure_23
+  - first:
+      213: -3981604267354415344
+    second: T_OpenChestSpriteSheet_Treasure_24
+  - first:
+      213: -821333253485735727
+    second: T_OpenChestSpriteSheet_Treasure_25
+  - first:
+      213: 5497226140489682599
+    second: T_OpenChestSpriteSheet_Treasure_26
+  - first:
+      213: 8979373774845742789
+    second: T_OpenChestSpriteSheet_Treasure_27
+  - first:
+      213: 7632202328259582873
+    second: T_OpenChestSpriteSheet_Treasure_28
+  - first:
+      213: 2893179154259728318
+    second: T_OpenChestSpriteSheet_Treasure_29
+  - first:
+      213: 7268846583651830265
+    second: T_OpenChestSpriteSheet_Treasure_30
+  - first:
+      213: -1618295642775836625
+    second: T_OpenChestSpriteSheet_Treasure_31
+  - first:
+      213: -2841167831411659061
+    second: T_OpenChestSpriteSheet_Treasure_32
+  - first:
+      213: -6251861608339554335
+    second: T_OpenChestSpriteSheet_Treasure_33
+  - first:
+      213: -8930003785602404979
+    second: T_OpenChestSpriteSheet_Treasure_34
+  - first:
+      213: -3565766429933485425
+    second: T_OpenChestSpriteSheet_Treasure_35
+  - first:
+      213: 5427900741532215910
+    second: T_OpenChestSpriteSheet_Treasure_36
+  - first:
+      213: -6510140372827612441
+    second: T_OpenChestSpriteSheet_Treasure_37
+  - first:
+      213: -700330811762484039
+    second: T_OpenChestSpriteSheet_Treasure_38
+  - first:
+      213: -8100231318227567824
+    second: T_OpenChestSpriteSheet_Treasure_39
+  - first:
+      213: -3922925621254099505
+    second: T_OpenChestSpriteSheet_Treasure_40
+  - first:
+      213: 8147686760736225467
+    second: T_OpenChestSpriteSheet_Treasure_41
+  - first:
+      213: -3143515910356717129
+    second: T_OpenChestSpriteSheet_Treasure_42
+  - first:
+      213: -5639275719643982243
+    second: T_OpenChestSpriteSheet_Treasure_43
+  - first:
+      213: 6290941529969399980
+    second: T_OpenChestSpriteSheet_Treasure_44
+  - first:
+      213: 4685536164626271790
+    second: T_OpenChestSpriteSheet_Treasure_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1688
+        width: 298
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c505a87c4312d18a0800000000000000
+      internalID: -6332868990443302820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1688
+        width: 299
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d13903bd704add0800000000000000
+      internalID: -2475845257152750194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_2
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1688
+        width: 300
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e776fad6484eddad0800000000000000
+      internalID: -2675731346161178754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_3
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1689
+        width: 304
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c824873c4ab0fcc0800000000000000
+      internalID: -3679236059050006335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_4
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1688
+        width: 303
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476d54cd4b7435570800000000000000
+      internalID: 8454179767619802740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1305
+        width: 303
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f21146e7e9f6c00800000000000000
+      internalID: 896109116551933793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1284
+        width: 299
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a5c95f7b896600800000000000000
+      internalID: 462053815865418165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1279
+        width: 298
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8702149b2b95bca0800000000000000
+      internalID: -6001720316931209332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_8
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1278
+        width: 299
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766a6e0a6022d2800800000000000000
+      internalID: 589164538120021607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_9
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1279
+        width: 297
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231f0fdd8ba5d0f20800000000000000
+      internalID: 3390465844523888946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 870
+        width: 292
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac419ef76ef95d00800000000000000
+      internalID: 962079718026333346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 854
+        width: 307
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b4a8d534b79370800000000000000
+      internalID: 8329324179205960707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_12
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 853
+        width: 301
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93e2e5ebcd843050800000000000000
+      internalID: 5779400128697918367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_13
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 853
+        width: 298
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977b60cca815a1bd0800000000000000
+      internalID: -2658722973438527623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_14
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1047
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c547ee60d3a440800000000000000
+      internalID: 4946025990528024897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_15
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1048
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfdfdd0cca5042f0800000000000000
+      internalID: -990692085568905296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 853
+        width: 299
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137eb57b435b0b5d0800000000000000
+      internalID: -3048737709710645455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_17
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 992
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190223a794d553a20800000000000000
+      internalID: 3041439693522739345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 444
+        width: 304
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a78482f459d5fe0800000000000000
+      internalID: -1198637758599890373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 444
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda666db7a45b1d00800000000000000
+      internalID: 944441626278128351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 444
+        width: 323
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29626e3a28090ed0800000000000000
+      internalID: -2447415944970868436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_21
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 443
+        width: 343
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4e61f99d1c9500800000000000000
+      internalID: 404230613574241842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_22
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 667
+        width: 235
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151c745d0f704150800000000000000
+      internalID: 5854819210810365206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_23
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 705
+        width: 235
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff68360a1d102cd0800000000000000
+      internalID: -2585034188499947526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_24
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 443
+        width: 351
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f1928a3008eb8c0800000000000000
+      internalID: -3981604267354415344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 600
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d054cfe1c90a94f0800000000000000
+      internalID: -821333253485735727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_26
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 596
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae01e99c021a4c40800000000000000
+      internalID: 5497226140489682599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_27
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 576
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce832b9fd42d9c70800000000000000
+      internalID: 8979373774845742789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 563
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b52d594970be960800000000000000
+      internalID: 7632202328259582873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 33
+        width: 322
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb75731bc13a62820800000000000000
+      internalID: 2893179154259728318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 377
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f90161b47120e460800000000000000
+      internalID: 7268846583651830265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 362
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28a8cedfa8aa89e0800000000000000
+      internalID: -1618295642775836625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 33
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee07519e42298d0800000000000000
+      internalID: -2841167831411659061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 304
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb402bdfcec39a0800000000000000
+      internalID: -6251861608339554335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6644ced0421480800000000000000
+      internalID: -8930003785602404979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_35
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 33
+        width: 355
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f824dcff25ad38ec0800000000000000
+      internalID: -3565766429933485425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 284
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a6b1757f6c35b40800000000000000
+      internalID: 5427900741532215910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 225
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5ea7b2d557a5a0800000000000000
+      internalID: -6510140372827612441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_38
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd2a356dce746f0800000000000000
+      internalID: -700330811762484039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 275
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b3d8e6882369f80800000000000000
+      internalID: -8100231318227567824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 238
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdeed89ee7fe89c0800000000000000
+      internalID: -3922925621254099505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8f5dac0f5621170800000000000000
+      internalID: 8147686760736225467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 218
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b136614fecff54d0800000000000000
+      internalID: -3143515910356717129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_43
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 207
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5692247c944db1b0800000000000000
+      internalID: -5639275719643982243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_44
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 194
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8149c9df9ed4750800000000000000
+      internalID: 6290941529969399980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_OpenChestSpriteSheet_Treasure_45
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 184
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e8bc2115e560140800000000000000
+      internalID: 4685536164626271790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
